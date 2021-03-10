@@ -1,6 +1,6 @@
 # Introduction
 
-Hey my name is Tagliatelle, I am an aspiring coder, currently working on a discord bot, and my dream is to make a business that helps the world
+Hey my name is Tagliatelle, I am an aspiring coder, currently working on a discord bot, and my dream is to make a business that impacts the world
 # Languages
 
 <img src="JavaScript.png" height = 70/>
