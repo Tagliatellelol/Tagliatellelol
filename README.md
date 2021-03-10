@@ -4,7 +4,7 @@ Hey my name is Tagliatelle, I am an aspiring coder, currently working on a disco
 # Languages
 
 <img src="JavaScript.png" height = 70/>
-# Currently Learning
+# Learning
 
 <img src="JavaScript.png" height = 70/><img src="Python.png" height = 80/><img src="HTML.png" height = 80>
 # Social Media
