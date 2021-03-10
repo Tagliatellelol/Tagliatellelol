@@ -11,5 +11,5 @@ Hey my name is Tagliatelle, I am an aspiring coder, currently working on a disco
 
 # Social Media
 
- [Discord Server](https://discord.gg/YNfAA8ppNT)
- [Other Discord Sever](https://discord.gg/5Rn4GjQAag)
+* [Discord Server](https://discord.gg/YNfAA8ppNT)
+*  [Other Discord Sever](https://discord.gg/5Rn4GjQAag)
