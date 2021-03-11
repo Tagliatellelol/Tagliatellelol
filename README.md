@@ -11,7 +11,7 @@ Hey my name is Tagliatelle, I am an aspiring coder, currently working on a disco
 
 # Languages wanting to learn
 
-<img src="C.png" height = 70/> <img src="C Sharp.png" height = 70/> <img src="Cpp.png" height = 70/>
+<img src="C.png" height = 70/> <img src="C Sharp.png" height = 70/> <img src="Cpp.png" height = 60/>
 
 # Bucket List
 
