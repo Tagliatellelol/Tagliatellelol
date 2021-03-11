@@ -9,6 +9,12 @@ Hey my name is Tagliatelle, I am an aspiring coder, currently working on a disco
 
 <img src="JavaScript.png" height = 70/> <img src="Python.png" height = 80/> <img src="HTML.png" height = 80>
 
+# Bucket List
+
+* Making an open source OS
+* Making a discord bot
+* Creating a professional Website
+
 # Social Media
 
 * [Programming Server](https://discord.gg/YNfAA8ppNT)
