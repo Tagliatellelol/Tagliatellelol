@@ -17,9 +17,11 @@ Hey my name is Tagliatelle, I am an aspiring coder, currently working on a disco
 
 * Making an open source OS
 * Making a discord bot
-* Creating a professional Website
+* Creating a professional Website for the discord bot
+* Being financially free with my friend https://github.com/NovaCodz
 
 # Social Media
 
+* [NovaCodz](https://github.com/NovaCodz)
 * [Programming Server](https://discord.gg/YNfAA8ppNT)
 * [Advertisement Sever](https://discord.gg/5Rn4GjQAag)
