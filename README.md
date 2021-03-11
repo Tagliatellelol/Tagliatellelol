@@ -9,6 +9,10 @@ Hey my name is Tagliatelle, I am an aspiring coder, currently working on a disco
 
 <img src="JavaScript.png" height = 70/> <img src="Python.png" height = 80/> <img src="HTML.png" height = 80>
 
+# Languages wanting to learn
+
+<img src="C.png" height = 70/> <img src="C Sharp.png" height = 70/> <img src="Cpp.png" height = 70/>
+
 # Bucket List
 
 * Making an open source OS
