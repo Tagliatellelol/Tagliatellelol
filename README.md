@@ -20,8 +20,12 @@ Hey my name is Tagliatelle, I am an aspiring coder, currently working on a disco
 * Creating a professional Website for the discord bot
 * Being financially free with my friend https://github.com/NovaCodz
 
+#My bot!
+[![Discord Bots](https://top.gg/api/widget/819643325177921587.svg)](https://top.gg/bot/819643325177921587)
+
 # Social Media
 
 * [NovaCodz](https://github.com/NovaCodz)
 * [Programming Server](https://discord.gg/YNfAA8ppNT)
 * [Advertisement Sever](https://discord.gg/5Rn4GjQAag)
+* 
