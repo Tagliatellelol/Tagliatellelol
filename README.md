@@ -7,11 +7,7 @@ Hey my name is Tagliatelle, I am an aspiring coder, currently working on a disco
 
 # Learning
 
-<img src="JavaScript.png" height = 70/> <img src="Python.png" height = 80/> <img src="HTML.png" height = 80>
-
-# Languages wanting to learn
-
-<img src="C.png" height = 70/> <img src="Bash.png" height = 70/>
+<img src="JavaScript.png" height = 70/> <img src="HTML.png" height = 80>
 
 # Bucket List
 
@@ -20,11 +16,10 @@ Hey my name is Tagliatelle, I am an aspiring coder, currently working on a disco
 * Creating a professional Website for the discord bot
 * Being financially free with my friend https://github.com/NovaCodz
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tagliatellelol&show_icons=true&theme=radical)
+
+
 # Invite my bot! 
 * [![Discord Bots](https://top.gg/api/widget/status/819643325177921587.svg)](https://top.gg/bot/819643325177921587)
 
-# Social Media
 
-* [NovaCodz](https://github.com/NovaCodz)
-* [Programming Server](https://discord.gg/YNfAA8ppNT)
-* [Advertisement Sever](https://discord.gg/5Rn4GjQAag)
