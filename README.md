@@ -12,7 +12,3 @@ Hey my name is Tagliatelle, I am an aspiring coder, currently working on a disco
 
 
 
-# Invite my bot! 
-* [![Discord Bots](https://top.gg/api/widget/status/819643325177921587.svg)](https://top.gg/bot/819643325177921587)
-
-
