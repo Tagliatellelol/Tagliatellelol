@@ -9,14 +9,10 @@ Hey my name is Tagliatelle, I am an aspiring coder, currently working on a disco
 
 <img src="JavaScript.png" height = 70/> <img src="HTML.png" height = 80>
 
-# Bucket List
+# My Stats
+![Tagliatellol Stats](https://github-readme-stats.vercel.app/api?username=tagliatellelol&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tagliatellelol&layout=compact)](https://github.com/CoreX-Developement/CoreX)
 
-* Making an open source OS
-* Making a discord bot
-* Creating a professional Website for the discord bot
-* Being financially free with my friend https://github.com/NovaCodz
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tagliatellelol&show_icons=true&theme=radical)
 
 
 # Invite my bot! 
