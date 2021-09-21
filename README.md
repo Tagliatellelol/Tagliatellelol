@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tagliatellelol</h1>
-<h3 align="center">A Passionate Discord Bot developer</h3>
+<h3 align="center">A Passionate Full-Stack Web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tagliatellelol&label=Profile%20views&color=0e75b6&style=plastic" alt="tagliatellelol" /> </p>
 
