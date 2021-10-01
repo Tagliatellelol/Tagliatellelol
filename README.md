@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tagliatellelol" alt="tagliatellelol" /></a> </p>
 
-- 🔭 I’m currently working on **CoreX**
-
 - 🌱 I’m currently learning **Web Developement**
 
 - 👯 I’m looking to collaborate on **JavaScript Projects**
