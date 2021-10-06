@@ -31,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tagliatellelol&show_icons=true&locale=en" alt="tagliatellelol" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tagliatellelol&" alt="tagliatellelol" /></p>
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'Z8Z56A7FA');kofiwidget2.draw();</script> 
