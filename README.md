@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tagliatellelol" alt="tagliatellelol" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/tagliatellelol" target="blank"><img src="https://img.shields.io/twitter/follow/tagliatellelol?logo=twitter&style=for-the-badge" alt="tagliatellelol" /></a> </p>
+
 - 🔭 I’m currently working on **Many New Projects**
 
 - 🌱 I’m currently learning **ReactJS, NextJS, TypeScript, Angular and SQL**
